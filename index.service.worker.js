@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1789992395|7816437';
+const CACHE_VERSION = '1790019182|4090504';
 /** @type {string} */
 const CACHE_PREFIX = 'Tash's Octogram-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
